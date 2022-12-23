@@ -1,3 +1,3 @@
-# jobs_parser
+# Jobs parser
 
 This app parses hh.ru
